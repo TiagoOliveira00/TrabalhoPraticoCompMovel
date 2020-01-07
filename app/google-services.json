@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "557761136015",
+    "firebase_url": "https://dish-project-a16924-a16931.firebaseio.com",
+    "project_id": "dish-project-a16924-a16931",
+    "storage_bucket": "dish-project-a16924-a16931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557761136015:android:756d5b128fd6fa4152b7fa",
+        "android_client_info": {
+          "package_name": "a16924.a16931"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557761136015-d5idaae6uoemj4r54g6t562soqvtl6su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJXoYSAYcrWNV9zgbCSCwh7SPy6K1ImhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557761136015-d5idaae6uoemj4r54g6t562soqvtl6su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
